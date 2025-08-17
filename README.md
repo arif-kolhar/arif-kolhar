@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Arif Kolhar </h1>
-<h4 align="left"> ☁️ AZ-104 Certified | Exploring Microsoft Azure, Linux, and Windows Server </h4>
-<h4 align="left"> 🚀 Aspiring Cloud & DevOps Engineer </h4>
-<h4 align="left"> 🔐 Interested in Cloud Security, Automation, and Infrastructure Management </h4> 
+<h4 align="center"> 🚀 Aspiring Cloud & DevOps Engineer </h4>
+<h4 align="center"> ☁️ AZ-104 Certified | Exploring Microsoft Azure, Linux, and Windows Server </h4>
+<h4 align="center"> 🔐 Interested in Cloud Security, Automation, and Infrastructure Management </h4> 
 <br>
 
-- 🌱 I’m currently learning **Kubernetes** <br>
+- 🌱 I’m currently learning **Azure** <br>
 
 ## 🚀 About Me  
 - Hands-on experience with **Windows Server management, PowerShell automation, Azure Recovery Services Vault, and Linux administration**  
@@ -28,5 +28,4 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arif-kolhar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=arif-kolhar&theme=blue-green&hide_border=false)
