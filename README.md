@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/vdg2hlrih/Screenshot%202025-08-17%20203926.png?updatedAt=1755444616617" width="90%" />
+  <img src="https://ik.imagekit.io/vdg2hlrih/Screenshot%202025-08-17%20203926.png?updatedAt=1755444616617" width="60%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arif Kolhar </h1>
